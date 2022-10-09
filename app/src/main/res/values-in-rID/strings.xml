@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challange CH5</string>
+    <string name="tologin">ke Login</string>
+    <string name="login">Masuk</string>
+    <string name="btnlogin">Tombol Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="registerlogo">Logo Daftar</string>
+    <string name="registrasi">Daftar</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="logout">Keluar</string>
+    <string name="website">Halaman</string>
+    <string name="enter_your_username">Masukkan Username Anda</string>
+    <string name="enter_your_password">Masukkan Kata Sandi Anda</string>
+    <string name="please_do_registration">Silahkan Melakukan Registrasi</string>
+    <string name="enter_your_username_reg">Silahkan Masukkan Username Anda</string>
+    <string name="your_name">Nama Anda</string>
+    <string name="enter_your_password_reg">Silahkan Massukan Password Anda</string>
+    <string name="repeat_your_password">Ulangi Password Anda</string>
+    <string name="name">Nama Anda</string>
+    <string name="update">Ubah Akun</string>
+    <string name="indonesian_language">Bahasa Indonesia</string>
+    <string name="logout_profile">Keluar Akun</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Challange CH5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="tologin">tologin</string>
+    <string name="login">Login</string>
+    <string name="btnlogin">Login</string>
+    <string name="register">register</string>
+    <string name="registerlogo">registerlogo</string>
+    <string name="registrasi">Registrasi</string>
+    <string name="reglogin" translatable="false">Login</string>
+    <string name="satu" translatable="false">Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="u2022" translatable="false">•</string>
+    <string name="website">WEBSITE</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="please_do_registration">Please do registration</string>
+    <string name="enter_your_username_reg">Enter your username</string>
+    <string name="your_name">Your name</string>
+    <string name="enter_your_password_reg">Enter your password</string>
+    <string name="repeat_your_password">Repeat your password</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="indonesian_language">Indonesian Language</string>
+    <string name="logout_profile">Logout</string>
+
+</resources>
